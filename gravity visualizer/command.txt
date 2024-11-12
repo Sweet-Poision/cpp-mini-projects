@@ -1,0 +1,4 @@
+
+cd Developer/Programming/Mini\ Projects/C++/gravity\ visualizer
+
+g++-13 -o MyExecutable main.cpp src/Display.cpp src/Particle.cpp src/World.cpp -Iinclude
